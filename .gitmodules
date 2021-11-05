@@ -1,0 +1,3 @@
+[submodule "Books/mavsim_template_files"]
+	path = Books/mavsim_template_files
+	url = https://magiccvs.byu.edu/gitlab/uavbook/mavsim_template_files.git
